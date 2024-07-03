@@ -1,9 +1,9 @@
 //
 //  AppDelegate.swift
-//  SimpleCalc
+//  SimpleCalculator
 //
-//  Created by Vincent Saluzzo on 29/03/2019.
-//  Copyright © 2019 Vincent Saluzzo. All rights reserved.
+//  Created by Amir Hossein on 2/9/19.
+//  Copyright © 2019 Amir Hossein. All rights reserved.
 //
 
 import UIKit
